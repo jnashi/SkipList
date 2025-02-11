@@ -1,9 +1,4 @@
-/*
-Julien Nashi
-Final Project
-December 2nd, 2024
 
- */
 import java.util.*;
 public class SkipListSet<T extends Comparable<T>> implements SortedSet<T> {
     public static void main(String[] args) {
